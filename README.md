@@ -13,5 +13,10 @@ Analyze the U.S Superstore Sales Data extensively
 - Your KPIs (maximum: 4)
 - Suitable header and subtitles for each visualization
 - Add suitable slicer
+## Data Sourcing
+The data was sent to my via google drive, I opened it with my google sheet and downloaded as excel document.
+It contains one sheet with---- rows and ----columns. The column headings are as follows: 
+## Raw data
+![]()
 
 
