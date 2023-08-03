@@ -5,6 +5,7 @@ As we stand at the threshold of a new business year, the path forward demands a 
 We are entering a new business year, based on the company's sales performance in the previous year, are there any specific 
 segments, quarter, months, products or countries where we should pay more attention to? We need these pointers to 
 perform better and make informed decisions in the coming year?
+
 **Requirements**
 Analyze the U.S Superstore Sales Data extensively
 - Come up with 6 business questions you intend to answer with that data
