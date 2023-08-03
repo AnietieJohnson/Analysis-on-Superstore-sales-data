@@ -7,10 +7,10 @@ performance in the coming. The following questions are to be answered.
 2.	Average profit and average sales for the year
 3.	Highest profit and highest sale value in the year
 4.	Locate product, city and month that gave the highest of Sale and Profit
-5.	A. What category of Product gave highest Profit, do same for sub-category
-    B. What category of Product gave highest sales, do same for sub-category
-    C. Which Category has the highest quantity
-  	D. What is the relationship between discount and quantity
+5.	- What category of Product gave highest Profit, do same for sub-category
+    - What category of Product gave highest sales, do same for sub-category
+    - Which Category has the highest quantity
+  	- What is the relationship between discount and quantity
 6.	Show profit and sales by month, do same for Quarter. 
 
 ## Data Sourcing
