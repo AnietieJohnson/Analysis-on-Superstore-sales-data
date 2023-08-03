@@ -7,6 +7,7 @@ segments, quarter, months, products or countries where we should pay more attent
 perform better and make informed decisions in the coming year?
 
 **Requirements**
+
 Analyze the U.S Superstore Sales Data extensively
 - Come up with 6 business questions you intend to answer with that data
 - Clean, analyze and visualize your insights 
