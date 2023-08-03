@@ -15,7 +15,7 @@ Analyze the U.S Superstore Sales Data extensively
 - Add suitable slicer
 ## Data Sourcing
 The data was sent to my via google drive, I opened it with google sheet and downloaded as excel document.
-It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: 
+It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit.
 ## Raw data
 ![]()
 ## Solutions
