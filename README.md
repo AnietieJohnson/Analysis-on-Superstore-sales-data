@@ -14,7 +14,7 @@ performance in the coming. The following questions are to be answered.
 6.	Show profit and sales by month, do same for Quarter. 
 
 ## Data Sourcing
-The data was provided to my via google drive, It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: **Row ID,** **Order ID,** **Order Date**, **Ship Date**, **Ship Mode**, **Customer ID**, **Customer Name**, **Segment**, **Country**, **City**, **State**, **Postal Code,** **Region,** **Product ID,** **Category,** **Sub-Category,** **Product Name,**, **Sales,** **Quantity,** **Discount** and **Profit**.
+The data was provided to me via google drive, It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: **Row ID,** **Order ID,** **Order Date**, **Ship Date**, **Ship Mode**, **Customer ID**, **Customer Name**, **Segment**, **Country**, **City**, **State**, **Postal Code,** **Region,** **Product ID,** **Category,** **Sub-Category,** **Product Name,**, **Sales,** **Quantity,** **Discount** and **Profit**.
 ## Raw data
 ![]()
 ## Solutions
