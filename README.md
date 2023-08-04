@@ -67,4 +67,8 @@ Vlookup looks from left to right, so I repositioned my Profit column, placed it 
 - To locate the **_Month_** that that gave the highest profit, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,E2:Y9995,21,0)
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/month%20of%20the%20highest%20profit%20value.png)
 ### Question 5:
-For 
+I used Pivot and charts table to give better insight for each sub question.
+- I created the pivot table by Selecting the data range
+- Then from the **_Insert tab_** I chose PivotTable and set it to new worksheet.
+To answer the question _"What category of Product gave highest Profit"_ I selected category for Rows field and for Values Field I selected Profit.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20sum%20of%20profit%20per%20category.png)
