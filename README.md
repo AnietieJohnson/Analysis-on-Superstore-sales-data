@@ -19,8 +19,18 @@ The data was provided to me via google drive, It contains one sheet with 9995 ro
 ## Raw data
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/superstore%20Raw%20data.png)
 ## Solutions
-Question 1:
-To get total sales for the year, I applied the **SUM FUNCTION** i.e =SUM(T2:T9995) to sum up the entire sales column.
-![]()
+### Question 1:
+- To get **_total sales_** for the year, I applied the **SUM FUNCTION** i.e =SUM(T2:T9995) to sum up the entire Sales column.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20sales.png)
 
+- To get **_total Profit_** for the year, I applied the **SUM FUNCTION** i.e =SUM(W2:W9995) to sum up the entire Profit column.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20profit.png)
 
+- To get **_total Discount_** for the year, I applied the **SUM FUNCTION** i.e =SUM(V2:V9995) to sum up the entire Discount column.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20discount.png)
+### Question 2
+- To get **_Average sales_** for the year, I applied the **AVERAGE FUNCTION** i.e =AVERAGE(T2:T9995), this takes the average of total values in the sales column.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Average%20sales.png)
+
+- To get **_Average Profit_** for the year, I applied the **AVERAGE FUNCTION** i.e =AVERAGE(W2:W9995), this takes the average of total values in the Profit column.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Average%20profit.png)
