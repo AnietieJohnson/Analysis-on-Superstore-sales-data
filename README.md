@@ -7,9 +7,8 @@ performance in the coming. The following questions are to be answered.
 2.	Average profit and average sales for the year
 3.	Highest profit and highest sale value in the year
 4.	Locate product, city and month that gave the highest of Sale and Profit
-5.	- What category of Product gave highest Profit, do same for sub-category
-    - What category of Product gave highest sales, do same for sub-category
-    - Which Category has the highest quantity
+5.	- What category of Product gave highest Profit
+    - What category of Product gave highest sales
   	- What is the relationship between discount and quantity
     - Which are the Top and bottom Four cities
 6.	Show profit and sales by month, do same for Quarter. 
@@ -67,3 +66,5 @@ Vlookup looks from left to right, so I repositioned my Profit column, placed it 
 
 - To locate the **_Month_** that that gave the highest profit, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,E2:Y9995,21,0)
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/month%20of%20the%20highest%20profit%20value.png)
+### Question 5:
+For 
