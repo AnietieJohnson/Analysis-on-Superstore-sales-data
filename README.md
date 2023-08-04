@@ -11,6 +11,7 @@ performance in the coming. The following questions are to be answered.
     - What category of Product gave highest sales, do same for sub-category
     - Which Category has the highest quantity
   	- What is the relationship between discount and quantity
+    - Which are the Top and bottom Four cities
 6.	Show profit and sales by month, do same for Quarter. 
 
 ## Data Sourcing
