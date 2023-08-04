@@ -17,8 +17,10 @@ performance in the coming. The following questions are to be answered.
 ## Data Sourcing
 The data was provided to me via google drive, It contains one sheet with 9995 rows(one of which is the column names) and 21 columns. The column headings are as follows: **Row ID,** **Order ID,** **Order Date**, **Ship Date**, **Ship Mode**, **Customer ID**, **Customer Name**, **Segment**, **Country**, **City**, **State**, **Postal Code,** **Region,** **Product ID,** **Category,** **Sub-Category,** **Product Name,**, **Sales,** **Quantity,** **Discount** and **Profit**.
 ## Raw data
-![]()
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/superstore%20Raw%20data.png)
 ## Solutions
-
+Question 1:
+To get total sales for the year, I applied the **SUM FUNCTION** i.e =SUM(T2:T9995) to sum up the entire sales column.
+![]()
 
 
