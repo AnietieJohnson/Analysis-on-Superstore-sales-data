@@ -46,9 +46,9 @@ On average superstore Made a profit of atleast **$ 28.66** on sales made daily
 -  To get **_Highest Profit_** within the year, I applied the **MAX FUNCTION** i.e =Max(W2:W9995), this function looks through the Profit column and returns the highest profit value. **$8,400** returned has the highest profit value made within the year
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Highest%20provit%20value.png)
 ### Question 4:
-#### Product, City and Month that generated the highest Sales
+#### Product, City and Month that generated the highest Sale value within the year.
 - To locate the **_product_** that gave the highest sale, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,$E$2:$S$9995,15,0), it searches for a value in the leftmost column of a table and returns a related value from a specified column. 
-Vlookup looks from left to right so I had to reposition my sales column, placed it on the left end of the product column before applying the formular. This means _Cisco TelePresence System EX90 Videoconferencing Unit_ was sold at $22,638 and it is the product that sold at the highest rate in the year.
+Vlookup looks from left to right so I repositioned my sales column, placed it on the left end of the product, city and month column before applying the formular. This means _Cisco TelePresence System EX90 Videoconferencing Unit_ was sold at $22,638 and it is the product that sold at the highest rate in the year.
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Product%20that%20generated%20highest%20sale%20value.png)
 
 - To locate the **_City_** that that gave the highest sale, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,$E$2:$S$9995,8,0)
@@ -57,6 +57,13 @@ Vlookup looks from left to right so I had to reposition my sales column, placed 
 - To locate the **_Month_** that that gave the highest sale, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,E2:Y9995,21,0)
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Month%20with%20the%20highest%20sale%20value.png)
 
-#### Product, City and Month that generated the highest Profit
+#### Product, City and Month that generated the highest Profit value within the year.
 - To locate the **_product_** that gave the highest Profit, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,$E$2:$S$9995,15,0), it searches for a value in the leftmost column of a table and returns a related value from a specified column. 
-Vlookup looks from left to right so I had to reposition my Profit column, placed it on the left end of the product column before applying the formular. _Canon imageCLASS 2200 Advanced Copier_ generated  $8,400 as profit, it is the product that generated highest profit within the year.
+Vlookup looks from left to right so I repositioned my Profit column, placed it on the left end of the product, city and month column column before applying the formular. _Canon imageCLASS 2200 Advanced Copier_ generated  $8,400 as profit, it is the product that generated highest profit within the year.
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Product%20That%20generated%20the%20highest%20profit%20Value.png)
+
+- To locate the **_City_** that that gave the highest Profit, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$10,$F$2:$Y$9995,7,0)
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/City%20with%20the%20Highest%20profit%20value.png)
+
+- To locate the **_Month_** that that gave the highest profit, I used **LOOKUP FUNCTION, (VLOOKUP)** I.E =VLOOKUP($AB$7,E2:Y9995,21,0)
+![https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/month%20of%20the%20highest%20profit%20value.png]
