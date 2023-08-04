@@ -70,7 +70,7 @@ Vlookup looks from left to right, so I repositioned my Profit column, placed it 
 I used Pivot and charts table to give better insight for each sub question.
 - I created the pivot table by Selecting the data range
 - Then from the **_Insert tab_** I chose PivotTable and set it to new worksheet.
-#### To answer the question _"What category of Product gave highest Profit"_ I selected category for Rows field and for Values Field I selected Profit.
+#### To answer the question _"What category of Product gave highest Profit"_ I selected category for Rows field and for Values Field I selected Profit. I also created a chart to visualize the how profit varied by category.  I created the chart using pivot table analyze Tab on the report sheet, I clicked on Pivot chart and chose Column chart because it gave a better representation to my data. I removed the fields on the chart that were not giving meaning to my visuals from chart element. Then I used Format chat area to give diferring color shades toeach of my chart bars. This helps to highlight that the bars represent different information connected to the gender. I also used text box to write a suitable title and insight for the visual. The Horizotal axis label shows gender and my legend shows the parameters being described.
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20sum%20of%20profit%20per%20category.png)
 
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20profit%20generated%20by%20category%20visuals.png)
