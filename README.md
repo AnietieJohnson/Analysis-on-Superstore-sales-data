@@ -70,5 +70,7 @@ Vlookup looks from left to right, so I repositioned my Profit column, placed it 
 I used Pivot and charts table to give better insight for each sub question.
 - I created the pivot table by Selecting the data range
 - Then from the **_Insert tab_** I chose PivotTable and set it to new worksheet.
-To answer the question _"What category of Product gave highest Profit"_ I selected category for Rows field and for Values Field I selected Profit.
+#### To answer the question _"What category of Product gave highest Profit"_ I selected category for Rows field and for Values Field I selected Profit.
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20sum%20of%20profit%20per%20category.png)
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20profit%20generated%20by%20category%20visuals.png)
