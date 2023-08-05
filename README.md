@@ -1,7 +1,7 @@
 ## Introduction
 As we stand at the threshold of a new business year, the path forward demands a keen understanding of sales performance from the preceding year. To navigate this journey effectively and make informed decisions, we embark on a data analysis project that will unearth valuable insights. By scrutinizing specific segments, quarters, months, products, and cities, we seek to pinpoint areas of significance. This project's ultimate goal is to equip us with the strategic insight required to enhance performance and elevate decision-making in the year ahead.
 ## Problem Statement
-We are required by Superstore's manager to analyze and review sales data for the past year to improve 
+I am required by Superstore's manager to analyze and review sales data for the past year to improve 
 performance in the coming. The following questions are to be answered.
 
  1. What category of Product gave highest Profit and sales
@@ -29,4 +29,5 @@ I used Pivot Table and charts to better explain my insights for each  question.
 - For charts, I created each by using **_pivot table analyze_**
 - Column chart that gave the best representation.
 ### Question 1:
+Category of Product that gave highest Profit and sales
 
