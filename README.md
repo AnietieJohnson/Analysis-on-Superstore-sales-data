@@ -78,4 +78,10 @@ What shipping method was most covenient for customers
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/shipment%20mode%20as%20a%20suitable%20slicer.png)
 
 ## Conclusion
+The analysis underscores Newy york's remarkable performance, as it dominated sales and profit. Nevertheless, certain Cities experienced substantial profit setbacks, particularly in specific product lines. Notably, technology stood out as prolific revenue generator. A significant proportion of customers favored the standard class shipment for their orders. Furniture as a category generates more sales but has the lowest Returns. Also to be noted is the fact that some discounts don't directly encourage sales. I recommend the following:
 
+- Market insights and surverys to understand reasons for low sales in certain cities
+- Advertisement and product awareness campaigns to encourage sales.
+- Cutting down discount on product that dont generate income
+- Revisitting cost of production for items in furniture category
+- Check cities with high sales performance, implement their strategies in other cities.
