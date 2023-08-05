@@ -38,7 +38,9 @@ Category of Product that gave highest Profit and sales
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Profit%20and%20Sales%20by%20category%20visuals.png)
 
 ### Question 2:
-Show profit and sales trend by quarter, How does discount differ quarterly, Quarter 4 generated more sales and more profit.
+Show profit and sales trend by quarter, How does discount differ quarterly
+
+Quarter 4 generated more sales and more profit. Discount given was increased in each quarter.
 
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Varying%20trend%20of%20KPI%20by%20Quarter%20A.png)     |    ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Vary%20Trend%20of%20Kpi%20per%20quarter%20B.png)
 :--------------------------------------------------------------------:|:--------------------------------------------------------:
