@@ -73,3 +73,6 @@ What shipping method was most covenient for customers
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/customer's%20preferred%20mode%20of%20shipping.png)
 
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Shipment%20mode.png)
+
+## Adding Ship Mode as slicer
+![]()
