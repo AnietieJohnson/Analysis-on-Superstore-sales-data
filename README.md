@@ -65,7 +65,9 @@ I narrowed my analysis down to the Cities that are contributing the highest to c
 Bottom Four cities by sales
 There is a need to understand areas of focus for improvement, Hence the analysis of Low performing states
 
-![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Bottom%20Performing%20cities%20by%20sales%20and%20profit.png)
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Bottom%20Performing%20cities%20by%20sales%20and%20profit.png) 
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Screenshot%20(380).png)
 
 ### Question 6:
 What shipping method was most covenient for customers
