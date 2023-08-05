@@ -5,10 +5,10 @@ I am required by Superstore's manager to analyze and review sales data for the p
 performance in the coming. The following questions are to be answered.
 
  1. What category of Product gave highest Profit and sales
- 2. What is the relationship between discount, sales and profit
- 3. Which are the Top and bottom Four citiesby sales
- 4. Show profit and sales trend by month
- 5. Show profit and sales trend by quarter, how does discount differ quartely
+ 2. Show profit and sales trend by quarter, How does discount differ quarterly
+ 3. Show profit and sales trend by month
+ 4. Which are the Top Four cities by sales
+ 5. Bottom Four cities by sales
  6. What shipping method was most covenient for customers
 
 ## Data Sourcing
@@ -30,4 +30,46 @@ I used Pivot Table and charts to better explain my insights for each  question.
 - Column chart that gave the best representation.
 ### Question 1:
 Category of Product that gave highest Profit and sales
+**Technology** with a total disount lower than the other categories, generated the highest Profit and Sales. Furnitures generated the least profit but had a higher sales than office supplies.
 
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20Profit%20and%20sales%20by%20Category%20A.png)     |    ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20Profit%20and%20sales%20by%20category%20B.png)
+:-------------------------------------------------------------:|:------------------------------------------------------------:
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Profit%20and%20Sales%20by%20category%20visuals.png)
+
+### Question 2:
+Show profit and sales trend by quarter, How does discount differ quarterly, Quarter 4 generated more sales and more profit.
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Varying%20trend%20of%20KPI%20by%20Quarter%20A.png)     |    ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Vary%20Trend%20of%20Kpi%20per%20quarter%20B.png)
+:--------------------------------------------------------------------:|:--------------------------------------------------------:
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Kpi%20trend%20by%20quarter%20visuals.png)
+
+### Question 3:
+Show profit and sales trend by month
+Having seen the trend of sales across quater, it is important to know what month sales peaked in the quarter.
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Sum%20of%20sales%20and%20profit%20by%20Month.png)
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Trend%20of%20sales%20and%20profit%20per%20month.png)
+
+### Question 4:
+Which are the Top Four cities by sales
+I narrowed my analysis down to the Cities that are contributing the highest to company's sales and returns
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Top%20performing%20cities%20by%20sales%20and%20profit.png)
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Bottm%20Four%20Cities.png)
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Top%20Four%20cities%20visuals.png)
+
+### Question 5:
+Bottom Four cities by sales
+There is a need to understand areas of focus for improvement, Hence the analysis of Low performing states
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Bottom%20Performing%20cities%20by%20sales%20and%20profit.png)
+
+### Question 6:
+What shipping method was most covenient for customers
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/customer's%20preferred%20mode%20of%20shipping.png)
+
+![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Shipment%20mode.png)
