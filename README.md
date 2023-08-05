@@ -27,7 +27,7 @@ I used Pivot Table and charts to better explain my insights for each  question.
 - Then from the **_Insert tab_** I chose PivotTable and set it to new worksheet.
 - Chose a fitting field for Rows field and for Values Field
 - For charts, I created each by using **_pivot table analyze_**
-- Column chart that gave the best representation.
+- Chose the chart that gave the best representation to each pivottable.
 ### Question 1:
 Category of Product that gave highest Profit and sales
 **Technology** with a total disount lower than the other categories, generated the highest Profit and Sales. Furnitures generated the least profit but had a higher sales than office supplies.
