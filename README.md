@@ -1,7 +1,7 @@
 ## Introduction
-As we stand at the threshold of a new business year, the path forward demands a keen understanding of our company's sales performance from the preceding year. To navigate this journey effectively and make informed decisions, we embark on a data analysis project that will unearth valuable insights. By scrutinizing specific segments, quarters, months, products, and cities, we seek to pinpoint areas of significance. This project's ultimate goal is to equip us with the strategic insight required to enhance performance and elevate decision-making in the year ahead.
+As we stand at the threshold of a new business year, the path forward demands a keen understanding of sales performance from the preceding year. To navigate this journey effectively and make informed decisions, we embark on a data analysis project that will unearth valuable insights. By scrutinizing specific segments, quarters, months, products, and cities, we seek to pinpoint areas of significance. This project's ultimate goal is to equip us with the strategic insight required to enhance performance and elevate decision-making in the year ahead.
 ## Problem Statement
-We are required by the manager to analyze and review sales data for the past year to improve 
+We are required by Superstore's manager to analyze and review sales data for the past year to improve 
 performance in the coming. The following questions are to be answered.
 
  1. What category of Product gave highest Profit and sales
