@@ -30,6 +30,7 @@ I used Pivot Table and charts to better explain my insights for each  question.
 - Chose the chart that gave the best representation to each pivottable.
 ### Question 1:
 Category of Product that gave highest Profit and sales
+
 **Technology** with a total disount lower than the other categories, generated the highest Profit and Sales. Furnitures generated the least profit but had a higher sales than office supplies.
 
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20Profit%20and%20sales%20by%20Category%20A.png)     |    ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20Profit%20and%20sales%20by%20category%20B.png)
