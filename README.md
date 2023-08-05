@@ -56,6 +56,7 @@ Having seen the trend of sales across quater, it is important to know what month
 
 ### Question 4:
 Which are the Top Four cities by sales
+
 I narrowed my analysis down to the Cities that are contributing the highest to company's sales and returns
 
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Top%20performing%20cities%20by%20sales%20and%20profit.png)
