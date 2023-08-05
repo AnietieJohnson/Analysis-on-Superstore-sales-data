@@ -4,11 +4,11 @@ As we stand at the threshold of a new business year, the path forward demands a 
 We are required by the manager to analyze and review sales data for the past year to improve 
 performance in the coming. The following questions are to be answered.
 
- 1. What category of Product gave highest Profit
- 2. What category of Product gave highest sales
- 3. What is the relationship between discount and quantity
- 4. Which are the Top and bottom Four cities
- 5. Show profit and sales by month, do same for Quarter.
+ 1. What category of Product gave highest Profit and sales
+ 2. What is the relationship between discount, sales and profit
+ 3. Which are the Top and bottom Four citiesby sales
+ 4. Show profit and sales trend by month
+ 5. Show profit and sales trend by quarter, how does discount differ quartely
  6. What shipping method was most covenient for customers
 
 ## Data Sourcing
@@ -16,6 +16,12 @@ The data was provided to me via google drive, It contains one sheet with 9995 ro
 ## Raw data
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/superstore%20Raw%20data.png)
 ## Solutions
+#### Focusing on the following Key Performance indicators:
+###### Sales
+###### Discount
+###### Quantity
+###### Profit
+
 I used Pivot Table and charts to better explain my insights for each  question.
 - I created the pivot table by Selecting the data range
 - Then from the **_Insert tab_** I chose PivotTable and set it to new worksheet.
@@ -23,6 +29,4 @@ I used Pivot Table and charts to better explain my insights for each  question.
 - For charts, I created each by using **_pivot table analyze_**
 - Column chart that gave the best representation.
 ### Question 1:
-![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/total%20sum%20of%20profit%20per%20category.png)
 
-![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/Total%20profit%20generated%20by%20category%20visuals.png)
