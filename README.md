@@ -17,10 +17,10 @@ The data was provided to me via google drive, It contains one sheet with 9995 ro
 ![](https://github.com/AnietieJohnson/Analysis-on-Superstore-sales-data/blob/main/superstore%20Raw%20data.png)
 ## Solutions
 #### Focusing on the following Key Performance indicators:
-###### Sales
-###### Discount
-###### Quantity
-###### Profit
+###### 1. Sales
+###### 2. Discount
+###### 3. Quantity
+###### 4. Profit
 
 I used Pivot Table and charts to better explain my insights for each  question.
 - I created the pivot table by Selecting the data range
